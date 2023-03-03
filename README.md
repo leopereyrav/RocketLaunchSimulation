@@ -2,6 +2,6 @@
 
 Program that simulates the behavior of a single-stage spacecraft at takeoff and flight on different planets.
 
-<img title="a title" alt="Alt text" src="https://cdn.mos.cms.futurecdn.net/9xUKWKsK4qmdnMgQ67vjFY.jpg" style="width:150px;height:auto;">
-
-![Image text](https://cdn.mos.cms.futurecdn.net/9xUKWKsK4qmdnMgQ67vjFY.jpg)
+<p align="center">
+  <img title="a title" alt="Alt text" src="https://media.tenor.com/4O7uNcs8vHgAAAAC/rocket-launch.gif" style="width:400px;height:auto;">
+</p>
